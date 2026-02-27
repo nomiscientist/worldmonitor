@@ -3,8 +3,6 @@ node_modules/
 dist/
 .DS_Store
 *.log
-.env
-.env.local
 .playwright-mcp/
 .vercel
 api/\[domain\]/v1/\[rpc\].js
@@ -30,3 +28,4 @@ src-tauri/sidecar/node/*
 # Compiled sebuf gateway bundle (built by scripts/build-sidecar-sebuf.mjs)
 api/[[][[].*.js
 .claudedocs/
+config.bat
